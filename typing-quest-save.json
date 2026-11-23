@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "currentTownId": "shiori",
+  "visitedTownIds": [
+    "village",
+    "shiori"
+  ],
+  "clearedChapterIds": [
+    "prologue",
+    "forest",
+    "island",
+    "volcano",
+    "cavern",
+    "sky",
+    "castle",
+    "abyss",
+    "promise",
+    "mansion",
+    "rehearsal",
+    "startrain",
+    "furnace",
+    "letter",
+    "sharedsky",
+    "garden",
+    "bottles",
+    "echo"
+  ],
+  "totalXp": 81947,
+  "gold": 20410,
+  "weaponId": "wake",
+  "ownedWeaponIds": [
+    "bare",
+    "wood",
+    "steel",
+    "flame",
+    "mithril",
+    "legend",
+    "star",
+    "dew",
+    "wake"
+  ],
+  "potions": 10,
+  "bonusPower": 3.44,
+  "bonusMaxHp": 668,
+  "companionIds": [
+    "merchant",
+    "warrior",
+    "mage",
+    "priest"
+  ],
+  "activeCompanionIds": [
+    "warrior",
+    "priest",
+    "mage",
+    "merchant"
+  ],
+  "totalKills": 135,
+  "bestMaxCombo": 7,
+  "bestTrainingWave": 43,
+  "totalGoldEarned": 115756,
+  "trainingCheckpoint": {
+    "wave": 44,
+    "playerHp": 750
+  }
+}
