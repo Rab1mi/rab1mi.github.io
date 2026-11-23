@@ -39,9 +39,9 @@
     "dew",
     "wake"
   ],
-  "potions": 10,
-  "bonusPower": 3.44,
-  "bonusMaxHp": 668,
+  "potions": 99999999999999999999999999999999999999999,
+  "bonusPower": 123456654325678908543567,
+  "bonusMaxHp": 15389522,
   "companionIds": [
     "merchant",
     "warrior",
@@ -54,12 +54,12 @@
     "mage",
     "merchant"
   ],
-  "totalKills": 135,
+  "totalKills": 1350000,
   "bestMaxCombo": 7,
-  "bestTrainingWave": 43,
+  "bestTrainingWave": 99,
   "totalGoldEarned": 115756,
   "trainingCheckpoint": {
-    "wave": 44,
-    "playerHp": 750
+    "wave": 100,
+    "playerHp": 15389522
   }
 }
